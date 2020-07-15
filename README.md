@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Credwa/Credwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here is what I'm working on 👋
 
 Here are some ideas to get you started:
 
@@ -10,5 +7,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Vue, React, Projects
 - 📫 How to reach me: ... craigroe7@gmail.com
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... I grew up in the Caribbean
