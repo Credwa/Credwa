@@ -5,7 +5,7 @@
 <!-- ![image](https://user-images.githubusercontent.com/6764957/87083194-cec5b800-c25e-11ea-85b4-0bebc4374e07.png) -->
 ---
 
-- 🔭 I’m currently working on fullstack projects with vuejs, go and aws
+- 🔭 I’m currently working on fullstack projects with react/vuejs, go and aws
 - 🌱 I’m currently learning Go and AWS
 - 📫 How to reach me: craigroe7@gmail.com
 - 😄 Pronouns: he/him
